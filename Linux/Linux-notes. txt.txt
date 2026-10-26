@@ -1,0 +1,18 @@
+# Linux Notes
+
+## Basic Commands
+
+pwd
+Shows the current directory.
+
+ls
+Lists files and directories.
+
+cd
+Changes directory.
+
+mkdir
+Creates a directory.
+
+touch
+Creates a file.
